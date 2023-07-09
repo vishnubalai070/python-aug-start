@@ -3,7 +3,7 @@
 
 # In[2]:
 
-
+'''
 data types are the classification or categorization of data items.
 it presesents the kind of value that tells what operation can be performed on the particular data
 
@@ -49,7 +49,19 @@ x=(11)
 y=(22)
 print(x>y)
 
+print function
+print function means what we are passing the arugement are passing the before statements output is called print function
+sep=' ',end=' ' is a diffault arugument
 
+sep=' '
+print('great','work','team')
+great work team nu print agum but we are not put any gape or space because alrdy defult arugment of sep=' ' run assign
+print('great','team','work',sep='')
+greatteamwork nu output space ilama varum 
+
+end=' '
+end='\n'default ah \n innrukum \n means new line antha arugment close agiruchu new aruguments ah 
+'''
 # In[7]:
 
 
